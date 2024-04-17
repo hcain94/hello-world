@@ -1,2 +1,2 @@
 # hello-world
-A test repo
+I am practicing commits and branching :) 
